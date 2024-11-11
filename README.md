@@ -11,7 +11,31 @@ A ideia é fazer um auto click por processo, para não ficar com o pc parado no 
 
 ### Exemplo da aplicação:
 
+Executar o `processo.py`
+
+```
+python processo.py
+```
+
+![image](https://github.com/user-attachments/assets/25282c66-0cca-4def-8555-c3c8d9bc716c)
+
+Executar o `farm/1.py`
+
+```
+python farm/1.py
+```
+
+![Captura de tela 2024-11-11 200725](https://github.com/user-attachments/assets/63407c3e-f96c-4c3c-a46b-67e2eee46972)
+
+##### Aplicação: 
+
 ![image](https://github.com/user-attachments/assets/15b45906-ec58-4547-ac3a-e519422831c3)
+
+### Nota:
+
+> Use a configuração padrão do x e y para não precisar ajustar.. aplique a resolução 1760x990 e ajuste a aba de aprimoramento exatamente como está no exemplo da aplicação acima..
+
+![image](https://github.com/user-attachments/assets/1c07b8e5-cd39-4f07-b818-e431628187d6)
 
 ### Pré-requisitos
 - **Python** (recomendado 3.12 ou superior)
