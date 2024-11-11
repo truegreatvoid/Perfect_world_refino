@@ -31,6 +31,8 @@ python farm/1.py
 
 ![image](https://github.com/user-attachments/assets/15b45906-ec58-4547-ac3a-e519422831c3)
 
+![image](https://github.com/user-attachments/assets/09d47d78-6d9e-4935-bee3-39f2497d5776)
+
 ### Nota:
 
 > Use a configuração padrão do x e y para não precisar ajustar.. aplique a resolução 1760x990 e ajuste a aba de aprimoramento exatamente como está no exemplo da aplicação acima..
