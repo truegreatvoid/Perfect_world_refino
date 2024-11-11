@@ -9,6 +9,10 @@ Este projeto contém dois scripts em Python para automação e listagem de proce
 
 A ideia é fazer um auto click por processo, para não ficar com o pc parado no aprimoramento do Perfect World
 
+### Exemplo da aplicação:
+
+![image](https://github.com/user-attachments/assets/15b45906-ec58-4547-ac3a-e519422831c3)
+
 ### Pré-requisitos
 - **Python** (recomendado 3.12 ou superior)
 - **Bibliotecas Python**:
